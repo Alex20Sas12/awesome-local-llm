@@ -237,8 +237,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
 - [Fara1.5](https://huggingface.co/collections/microsoft/fara15) - a collection of multimodal computer use agents (CUA) for web browsers from Microsoft
 - [Marco-MoE](https://huggingface.co/collections/AIDC-AI/marco-moe) - a suit of multilingual MoE models with highly-sparse architectures
-- [Jan-v3](https://huggingface.co/collections/janhq/jan-v3) - a 4B baseline model for fine-tuning, designed for downstream work: improved instruction following out of the box, strong starting point for fine-tuning and effective lightweight coding assistance
-- [Jan-v2-VL](https://huggingface.co/collections/janhq/jan-v2-vl) - a family of VLM focused on reliable, many-step task execution
+- [OUI-1](https://huggingface.co/thesysdev/OUI-1) - a diffusion model built for generative UI
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) - a state-of-the-art 8B orchestration model designed to solve complex, multi-turn agentic tasks by coordinating a diverse set of expert models and tools
 - [Arch-Router-1.5B](https://huggingface.co/katanemo/Arch-Router-1.5B) - the fastest LLM router model that aligns to subjective usage preferences
 - [Waypoint](https://huggingface.co/collections/Overworld/waypoint) - a collection of real-time interactive video world models
