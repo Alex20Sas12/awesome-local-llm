@@ -143,9 +143,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [GLM-5.3](https://huggingface.co/collections/zai-org/glm-53) - a Z.ai's flagship model for long-horizon tasks
 - [Ling-3.0-flash](https://huggingface.co/inclusionAI/Ling-3.0-flash) - a native hybrid reasoning model from inclusionAI, operating with 124B total and 5.1B active parameters 
 - [Granite 4.1](https://huggingface.co/collections/ibm-granite/granite-41-language-models) - efficient language models from IBM for multilingual generation, coding, RAG, and AI assistant workflows
+- [Ornith-1.5](https://huggingface.co/collections/ornith-ai/ornith-15) - a collection of open-source models for agentic tasks and coding
 - [EXAONE-4.5](https://huggingface.co/collections/LGAI-EXAONE/exaone-45) - LG's First Open-Weight Vision-Language Model for Industrial Intelligence
 - [Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash) - most capable open-source foundation model, engineered to deliver frontier reasoning and agentic capabilities with exceptional efficiency
-- [Nex-N2](https://huggingface.co/collections/nex-agi/nex-n2) - a collection of agent models built for real-world productivity scenarios
 - [MiniCPM5](https://huggingface.co/collections/openbmb/minicpm5) - a collection of SOTA on-device LLMs, small yet powerful
 
 [Back to Table of Contents](#table-of-contents)
