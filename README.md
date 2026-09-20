@@ -145,7 +145,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Granite 4.1](https://huggingface.co/collections/ibm-granite/granite-41-language-models) - efficient language models from IBM for multilingual generation, coding, RAG, and AI assistant workflows
 - [Ornith-1.5](https://huggingface.co/collections/ornith-ai/ornith-15) - a collection of open-source models for agentic tasks and coding
 - [EXAONE-4.5](https://huggingface.co/collections/LGAI-EXAONE/exaone-45) - LG's First Open-Weight Vision-Language Model for Industrial Intelligence
-- [Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash) - most capable open-source foundation model, engineered to deliver frontier reasoning and agentic capabilities with exceptional efficiency
+- [Step-3.7-Flash](https://huggingface.co/collections/stepfun-ai/step-37-flash) - Mixture-of-Experts vision-language model for developers who need to scale agentic workflows that combine perception, search, and reasoning
 - [MiniCPM5](https://huggingface.co/collections/openbmb/minicpm5) - a collection of SOTA on-device LLMs, small yet powerful
 
 [Back to Table of Contents](#table-of-contents)
