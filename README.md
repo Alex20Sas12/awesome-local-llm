@@ -238,7 +238,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Miscellaneous
 
 - [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
-- [Fara1.5](https://huggingface.co/collections/microsoft/fara15) - a collection of multimodal computer use agents (CUA) for web browsers from Microsoft
+- [Holo4](https://huggingface.co/collections/Hcompany/holo4) - a collection of Visual Language Models for computer/mobile use, tool calls, and code
 - [Marco-MoE](https://huggingface.co/collections/AIDC-AI/marco-moe) - a suit of multilingual MoE models with highly-sparse architectures
 - [OUI-1](https://huggingface.co/thesysdev/OUI-1) - a diffusion model built for generative UI
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) - a state-of-the-art 8B orchestration model designed to solve complex, multi-turn agentic tasks by coordinating a diverse set of expert models and tools
